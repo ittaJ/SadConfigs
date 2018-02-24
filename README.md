@@ -38,7 +38,7 @@ class ExampleConfig: Configuration {
 }
 ```
 
-To register it go to your plugin's main class and in `onEnable()` add `ConfigurationManager.registerNewConfiguration(ExampleConfig())'
+To register it go to your plugin's main class and in `onEnable()` add `ConfigurationManager.registerNewConfiguration(ExampleConfig())`
 
 ## Example config file
 ```YML
